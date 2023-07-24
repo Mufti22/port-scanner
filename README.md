@@ -12,7 +12,6 @@ pip install python-nmap
 Склонируйте репозиторий с помощью команды:
 bash
 Copy code
-git clone https://github.com/your-username/port-scanner.git
 cd port-scanner
 Запустите скрипт с помощью Python:
 bash
